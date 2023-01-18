@@ -45,5 +45,5 @@ database = {
 ```bash
 python3 changedb {db_name}
 ```
-eg:- python3 changedb dev will change your database to stagging
+eg:- python3 changedb dev will change your database to dev
 
